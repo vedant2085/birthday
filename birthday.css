@@ -14,11 +14,12 @@ h1, h2 {
 
 header.hero {
     text-align: center;
-    background-image: url('indie lake single.jpeg');
+    background-image: url('bday background2.jpg');
     background-size: cover;
     color: #fff;
     padding-top: 150px;
     padding-bottom:150px;
+    
 }
 
 header.hero h1 {
@@ -37,6 +38,8 @@ main {
 .intro {
     text-align: center;
     margin-bottom: 50px;
+    background-image: url('bday single.jpeg');
+    background-size: cover;
 }
 
 .gallery {
